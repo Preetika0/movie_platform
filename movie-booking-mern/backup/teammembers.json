@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "69c2b0a05a541e101aa1becc"
+  },
+  "name": "kp preetika setty",
+  "role": "Developer",
+  "bio": "Front-end developer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b0a05a541e101aa1bece"
+  },
+  "name": "k srujana",
+  "role": "Developer",
+  "bio": "Back-end developer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2b0a05a541e101aa1bed0"
+  },
+  "name": "k prashanthi",
+  "role": "Designer",
+  "bio": "UI/UX designer",
+  "__v": 0
+}]

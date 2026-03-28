@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "69c2b05416d60bdd664eecfd"
+  },
+  "movieId": {
+    "$oid": "69c2afa72e9f38eb142314c6"
+  },
+  "movieTitle": "Die My Love",
+  "showtime": "12:30 PM",
+  "seats": [
+    "B5",
+    "B6"
+  ],
+  "totalPrice": 340,
+  "customerName": "preetika",
+  "customerEmail": "preetikasetty@gmail.com",
+  "createdAt": {
+    "$date": "2026-03-24T15:40:04.540Z"
+  },
+  "__v": 0
+}]

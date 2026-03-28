@@ -1,0 +1,623 @@
+[{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314b9"
+  },
+  "title": "Jurassic World",
+  "description": "Dinosaur action and adventure.",
+  "duration": 125,
+  "genre": [
+    "Action",
+    "Adventure"
+  ],
+  "poster": "/pic/Jurassic_World.jpg",
+  "releaseDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "10:30 AM",
+      "price": 220,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314ba"
+      }
+    },
+    {
+      "time": "02:00 PM",
+      "price": 250,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314bb"
+      }
+    },
+    {
+      "time": "07:30 PM",
+      "price": 300,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314bc"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314be"
+  },
+  "title": "The Great Flood",
+  "description": "Epic drama of survival.",
+  "duration": 140,
+  "genre": [
+    "Drama"
+  ],
+  "poster": "/pic/The_Great_Flood.jpg",
+  "releaseDate": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "11:00 AM",
+      "price": 180,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314bf"
+      }
+    },
+    {
+      "time": "05:00 PM",
+      "price": 210,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314c0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314c2"
+  },
+  "title": "Lokah",
+  "description": "A spiritual journey.",
+  "duration": 110,
+  "genre": [
+    "Drama",
+    "Indie"
+  ],
+  "poster": "/pic/Lokah.jpg",
+  "releaseDate": {
+    "$date": "2024-09-03T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "01:00 PM",
+      "price": 150,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314c3"
+      }
+    },
+    {
+      "time": "06:00 PM",
+      "price": 190,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314c4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314c6"
+  },
+  "title": "Die My Love",
+  "description": "Thrilling romantic suspense.",
+  "duration": 132,
+  "genre": [
+    "Thriller",
+    "Romance"
+  ],
+  "poster": "/pic/Die_My_Love.jpg",
+  "releaseDate": {
+    "$date": "2025-02-21T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "12:30 PM",
+      "price": 170,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": false,
+        "B6": false,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314c7"
+      }
+    },
+    {
+      "time": "08:00 PM",
+      "price": 220,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314c8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314ca"
+  },
+  "title": "A House Of Dynamite",
+  "description": "High-voltage family drama.",
+  "duration": 148,
+  "genre": [
+    "Action",
+    "Drama"
+  ],
+  "poster": "/pic/A_House_Of_Dynamite.jpg",
+  "releaseDate": {
+    "$date": "2025-07-10T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "03:00 PM",
+      "price": 200,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314cb"
+      }
+    },
+    {
+      "time": "09:30 PM",
+      "price": 250,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314cc"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c2afa72e9f38eb142314ce"
+  },
+  "title": "Predators: Badlands",
+  "description": "Survival horror in the badlands.",
+  "duration": 95,
+  "genre": [
+    "Horror",
+    "Action"
+  ],
+  "poster": "/pic/predators_badlands.jpg",
+  "releaseDate": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "showtimes": [
+    {
+      "time": "04:00 PM",
+      "price": 160,
+      "seats": {
+        "A1": true,
+        "A2": true,
+        "A3": true,
+        "A4": true,
+        "A5": true,
+        "A6": true,
+        "A7": true,
+        "A8": true,
+        "B1": true,
+        "B2": true,
+        "B3": true,
+        "B4": true,
+        "B5": true,
+        "B6": true,
+        "B7": true,
+        "B8": true,
+        "C1": true,
+        "C2": true,
+        "C3": true,
+        "C4": true,
+        "C5": true,
+        "C6": true,
+        "C7": true,
+        "C8": true,
+        "D1": true,
+        "D2": true,
+        "D3": true,
+        "D4": true,
+        "D5": true,
+        "D6": true,
+        "D7": true,
+        "D8": true
+      },
+      "_id": {
+        "$oid": "69c2afa72e9f38eb142314cf"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-24T15:37:11.815Z"
+  },
+  "__v": 0
+}]
